@@ -3,7 +3,7 @@
 Full-stack developer focused on scalable SaaS systems, smart city infrastructure, and modern cinematic UI experiences.
 
 ---
-
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,docker,kubernetes,python)
 ## 🚀 Featured Projects
 
 ### 🏙 Smart City Platform
