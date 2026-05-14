@@ -6,7 +6,7 @@ Full-stack developer focused on scalable SaaS systems, smart city infrastructure
 
 My tech-stack:
 -
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,docker,kubernetes,python)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,docker,kubernetes,python,html,css)
 
 ---
 ## 🚀 Featured Projects
