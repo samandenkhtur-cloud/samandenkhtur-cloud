@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Samand 👋
 
-<!--
-**samandenkhtur-cloud/samandenkhtur-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on scalable SaaS systems, smart city infrastructure, and modern cinematic UI experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏙 Smart City Platform
+AI-powered civic issue reporting platform with:
+- Mapbox integration
+- SLA monitoring
+- Realtime dashboards
+- Complaint tracking
+- Admin & worker systems
+
+### 📋 Multi-Tenant Task Manager
+Production-style SaaS architecture:
+- Next.js
+- Node.js microservices
+- PostgreSQL + Prisma
+- Socket.IO realtime collaboration
+- Docker/Kubernetes ready
+
+### 🚗 Vehicle Recognition System
+Computer vision project for:
+- Vehicle detection
+- Car brand recognition
+- Bounding box visualization
+- Deep learning inference
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+
+### Backend
+- Node.js
+- Express / Fastify
+- PostgreSQL
+- Prisma
+- Redis
+
+### AI / Computer Vision
+- Python
+- OpenCV
+- YOLO
+- PyTorch
+
+### DevOps
+- Docker
+- Kubernetes
+- Nginx
+- Vercel
+
+---
+
+## 🌍 Links
+
+- Portfolio: https://your-portfolio-link.com
+- Smart City Demo: https://your-demo-link.com
+
+---
+
+## 📈 Current Focus
+
+Building scalable civic platforms, realtime SaaS systems, and AI-powered web applications.
