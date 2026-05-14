@@ -67,8 +67,9 @@ Computer vision project for:
 
 ## 🌍 Links
 
-- Portfolio: https://your-portfolio-link.com
+- Portfolio: https://github.com/samandenkhtur-cloud
 - Smart City Demo: https://your-demo-link.com
+- Multi Tenant Task Manager: 
 
 ---
 
