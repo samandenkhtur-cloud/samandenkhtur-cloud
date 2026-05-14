@@ -30,6 +30,7 @@ Computer vision project for:
 - Deep learning inference
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samandenkhtur-cloud&show_icons=true&theme=tokyonight)
 
 ## 🛠 Tech Stack
 
