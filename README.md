@@ -69,7 +69,7 @@ Computer vision project for:
 
 - Portfolio: https://github.com/samandenkhtur-cloud
 - Smart City Demo: https://smart-city-v2.vercel.app/admin/dashboard
-- Multi Tenant Task Manager: https://zenith-multi-tenant-taskmanager.vercel.app/
+- Multi Tenant Task Manager: https://frontend-orpin-five-38.vercel.app/
 
 ---
 
