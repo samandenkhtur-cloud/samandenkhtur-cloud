@@ -71,8 +71,3 @@ Computer vision project for:
 - Smart City Demo: https://smart-city-v2.vercel.app/admin/dashboard
 - Multi Tenant Task Manager: https://frontend-orpin-five-38.vercel.app/
 
----
-
-## 📈 Current Focus
-
-Building scalable civic platforms, realtime SaaS systems, and AI-powered web applications.
